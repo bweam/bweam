@@ -1,4 +1,4 @@
-![bweam's GitHub stats](https://github-readme-stats.vercel.app/api?username=bweam&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&card_width=450&text_color=fff&hide=issues,stars)
+![bweam's GitHub stats](https://github-readme-stats.vercel.app/api?username=bweam&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&card_width=450&include_all_commits=true&text_color=fff&hide=issues,stars)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bweam&layout=compact&card_width=400&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
